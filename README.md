@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning First Year
 - 💞️ I’m looking to collaborate on .  
 - 📫 How to reach me :
-       1) Mail : skushal1805c@gmail.com
+       1) Mail : skushal1805@gmail.com
   
 
 <!---
