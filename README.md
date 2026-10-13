@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Kushal1805
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning First Year
+- 🌱 I’m currently learning Third Year
 - 💞️ I’m looking to collaborate on .  
 - 📫 How to reach me :
-       1) Mail : skushal1805@gmail.com
+         1) Mail : skushal1805@gmail.com
+         2) LinkedIn : https://www.linkedin.com/in/kushalshidlyali1805/
   
 
 <!---
